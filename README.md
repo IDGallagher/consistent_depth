@@ -2,6 +2,10 @@
  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IDGallagher/consistent_depth/blob/main/%5BSIGGRAPH_2020%5D_Consistent_Video_Depth_Estimation.ipynb)
  
+ <br/>
+ ## NB from Ian: I've edited this to make it work on Colab by changing some dependencies and using a non-patented algorithm. See the updated colab here: https://colab.research.google.com/github/IDGallagher/consistent_depth/blob/main/%5BSIGGRAPH_2020%5D_Consistent_Video_Depth_Estimation.ipynb
+ <br/>
+ 
  ### [[Paper](https://arxiv.org/abs/2004.15021)] [[Project Website](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)] [[Google Colab](https://colab.research.google.com/drive/1i5_uVHWOJlh2adRFT5BuDhoRftq9Oosx#scrollTo=lNc6HHfHDfnE)]
 
 <p align='center'>
