@@ -1,6 +1,6 @@
  # [SIGGRAPH 2020] Consistent Video Depth Estimation
  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1i5_uVHWOJlh2adRFT5BuDhoRftq9Oosx#scrollTo=lNc6HHfHDfnE](https://colab.research.google.com/github/IDGallagher/consistent_depth/blob/main/%5BSIGGRAPH_2020%5D_Consistent_Video_Depth_Estimation.ipynb))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/IDGallagher/consistent_depth/blob/main/%5BSIGGRAPH_2020%5D_Consistent_Video_Depth_Estimation.ipynb])
  
  ### [[Paper](https://arxiv.org/abs/2004.15021)] [[Project Website](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)] [[Google Colab](https://colab.research.google.com/drive/1i5_uVHWOJlh2adRFT5BuDhoRftq9Oosx#scrollTo=lNc6HHfHDfnE)]
 
